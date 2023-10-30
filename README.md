@@ -84,11 +84,12 @@
 <br/>  
 
 
-## Spotify 
+## My Github Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=dhanasekar-30&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
+## And my Spotify is ...
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31722iyylyxdnvjb5dfj3rfosbia&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
