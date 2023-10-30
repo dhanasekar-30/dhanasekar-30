@@ -84,7 +84,7 @@
 <br/>  
 
 
-## Github Stats  
+## Spotify 
 <img src="https://github-readme-stats.vercel.app/api?username=dhanasekar-30&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
